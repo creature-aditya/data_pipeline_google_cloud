@@ -1,0 +1,35 @@
+{
+    "BigQuery Schema": [{
+      "name": "hotel_id",
+      "type": "INT64"
+     },
+     {
+      "name": "name",
+      "type": "STRING"
+     },
+     {
+      "name": "city",
+      "type": "STRING"
+     },
+     {
+        "name": "address",
+        "type": "STRING"
+       },
+       {
+        "name": "hotel_class",
+        "type": "STRING"
+       },
+       {
+        "name": "url",
+        "type": "STRING"
+       },
+       {
+        "name": "ranking",
+        "type": "INT64"
+       },
+       {
+        "name": "number_of_rooms",
+        "type": "INT64"
+       }
+    ]
+   }
